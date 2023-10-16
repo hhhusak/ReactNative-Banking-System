@@ -1,16 +1,15 @@
 # ReactNative-Banking-System
 
-# Foobar
+It is a prototype of banking system written on React Native.
 
-Foobar is a Python library for dealing with word pluralization.
+## Scripts
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Firstly you have to run XCode iOS simulator or install expo on your device.
 
 ```bash
-pip install foobar
+npm start
 ```
+Runs the application then you have to choose way to open the application(scan QR code on your device or open it on iOS simulator).
 
 ## Usage
 
